@@ -2,6 +2,12 @@
 
 This repository pandas library was created to improve my skills. I will share my projects over time.
 
+### Prerequisites
+```
+Python 3.x.x
+Jypther Notebook or Visual Studio Code
+```
+
 ## Authors
 * **Necmettin Alver** - [necmettinalver](https://github.com/necmettinalver)
 
